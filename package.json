@@ -1,0 +1,10 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "looger for console",
+  "main": "index.js",
+  "repository": "https://github.com/kamrul-suhel/console.git",
+  "author": "kamrul",
+  "license": "MIT",
+  "private": false
+}
